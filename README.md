@@ -17,7 +17,7 @@ You are given access to a simple webpage created by a careless developer. The pa
 
 🚩 Flag Format
 
-GCS{...}
+flag:...
 
 📍 Flag Location / Logic
 
